@@ -1,5 +1,7 @@
 # Coursera Multimodal Intelligence Platform
 
+App Link- https://coursera-multimodal-intelligence-platform-kdjxjscmnmq3zxzadfjs.streamlit.app/
+
 Online courses produce a lot of data: quiz answers, student comments, videos, PDFs and slides. The problem is that all of it sits in different places, so a teacher has no easy way to see where students are actually struggling.
 
 Our project brings everything into one app. An educator can ask a question like "Why are students struggling with while loops?" and get an AI-written report backed by real evidence from the course. The educator can then approve, reject or ask for changes.
